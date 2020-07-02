@@ -1,4 +1,4 @@
 mysql:
   url: dev-http://localhost:3306/db600
-lagou:
+lx:
   message: hello lx, 600
